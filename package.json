@@ -1,0 +1,24 @@
+{ 
+
+  "homepage": "http://kshivakumar27.github.io/MernBookmyshowBackend",
+  "name": "bookmyshow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^3.6.6"
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
